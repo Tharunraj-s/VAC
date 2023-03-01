@@ -37,6 +37,9 @@ The following libraries were used in this model:
 
 The model achieved an accuracy of X% on the testing set.
 
+![Rplot](https://user-images.githubusercontent.com/110415018/222084788-22bc06b0-26ff-43d2-a831-284ad35cd10e.png)
+
+
 ## Conclusion
 
 Overall, the simple linear regression model showed promise in predicting the chance of admission of a student based on their GRE score and CGPA. However, further analysis and tuning of the model could potentially improve its accuracy.
